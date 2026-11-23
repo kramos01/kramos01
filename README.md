@@ -1,5 +1,5 @@
 ## Hi there 👋
-Computer Science student.
+I am a Computer Science student.
 
 ### Technologies:
 - Java
