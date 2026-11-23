@@ -1,7 +1,7 @@
 ## Hi there 👋
 Computer Science student.
 
-# Technologies:
+### Technologies:
 - Java
 - Python
 - C++
@@ -12,7 +12,7 @@ Computer Science student.
 - CSS
 - JS
 - Visual Basic
-# Goals:
+### Goals:
 - Grow my GitHub portfolio.
 <!--
 **kramos01/kramos01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
